@@ -1,3 +1,3 @@
-module github.com/go-sql-driver/mysql
+module github.com/intelycaretech/go-mysql
 
-go 1.13
+go 1.15
