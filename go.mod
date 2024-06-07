@@ -1,3 +1,3 @@
 module github.com/intelycaretech/go-mysql
 
-go 1.15
+go 1.22.3
